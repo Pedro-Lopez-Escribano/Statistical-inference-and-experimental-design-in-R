@@ -5,3 +5,5 @@ Much of the content in these courses is not included, I have included the parts 
 
 You will find some theory and interpretation of the different results. 
 I hope you find it useful to improve your understanding of statistical inference.
+
+Markdown : http://htmlpreview.github.io/?https://github.com/Pedro-Lopez-Escribano/Statistical-inference-and-experimental-design-in-R/blob/main/Markdown2.html
